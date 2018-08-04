@@ -4,7 +4,7 @@ import  org.junit.Assert;
 import org.junit.Test;
 
 import in.co.capgemini.calc.Maths;
-
+//Class for testing Addition
 public class AdditionTest {
 
 	@Test
